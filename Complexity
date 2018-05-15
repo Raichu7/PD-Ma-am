@@ -17,7 +17,7 @@ Prim's -  O(E + V log V)
 Strassen -  O(n^2.80)
 Flyod Warshall -  O(n^3)
 N-Queen - O(N!)
-Knapsack - O ( n W ) where is the number of items and is the capacity of the knapsack.
+Knapsack - O ( n W ) where n is the number of items and W is the capacity of the knapsack.
 
  
  
