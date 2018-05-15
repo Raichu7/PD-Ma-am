@@ -9,7 +9,9 @@ Bubble Sort	    Ω(n)	          Θ(n^2)	      O(n^2)
 Insertion Sort	Ω(n)	          Θ(n^2)	      O(n^2)	
 Selection Sort	Ω(n^2)	        Θ(n^2)	      O(n^2)	
 
-Djisktra - O(V^2) - V - No. of edges
+Djisktra - O(V^2) - V - No. of vertices
+If the input graph is represented using adjacency list, it can be reduced to O(E log V) with the help of binary heap.
+
 Kruskal's - O(E log V) 
 Prim's -  O(E + V log V)
 Strassen -  O(n^2.80)
