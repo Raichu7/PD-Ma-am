@@ -1,0 +1,22 @@
+Ready Reckoner for Complexity 
+
+	              Best	          Average	      Worst	 
+Quicksort	      Ω(n log(n))	    Θ(n log(n))	  O(n^2)	
+Mergesort	      Ω(n log(n))	    Θ(n log(n))	  O(n log(n))
+Timsort	        Ω(n)	          Θ(n log(n))	  O(n log(n))	
+Heapsort	      Ω(n log(n))	    Θ(n log(n))	  O(n log(n))	
+Bubble Sort	    Ω(n)	          Θ(n^2)	      O(n^2)	
+Insertion Sort	Ω(n)	          Θ(n^2)	      O(n^2)	
+Selection Sort	Ω(n^2)	        Θ(n^2)	      O(n^2)	
+
+Djisktra - O(V^2) - V - No. of edges
+Kruskal's - O(E log V) 
+Prim's -  O(E + V log V)
+Strassen -  O(n^2.80)
+Flyod Warshall -  O(n^3)
+N-Queen - O(N!)
+Knapsack - O ( n W ) where is the number of items and is the capacity of the knapsack.
+
+ 
+ 
+
